@@ -1,5 +1,13 @@
+*{
+    color:red;
+}
+
 h1{
     color: blue;
+}
+
+#headingOne{
+    color: purple;
 }
 
 p{
@@ -12,4 +20,8 @@ button{
 }
 body{
     background-color: rgb(236, 255, 25);
+}
+
+.myClass{
+    color: rgb(4, 0, 255);
 }
