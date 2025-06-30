@@ -8,4 +8,8 @@ p{
 
 button{
     color: brown;
+    background-color: lightgray;
+}
+body{
+    background-color: lightblue;
 }
