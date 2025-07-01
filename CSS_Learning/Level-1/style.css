@@ -25,4 +25,5 @@ body{
 
 .myClass{
     color: rgb(4, 0, 255);
+    text-decoration: underline;
 }
