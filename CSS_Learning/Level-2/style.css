@@ -10,8 +10,6 @@ div{
     width: 200px;
     height: 50px;
     background-color: lightblue;
-    margin: 10px auto;
-    text-align: center;
-    line-height: 50px; /* Center text vertically */
-    border-radius: 50px; /* Rounded corners */
+    border: 2px solid blue;
+    padding-left: 10px;;
 }
