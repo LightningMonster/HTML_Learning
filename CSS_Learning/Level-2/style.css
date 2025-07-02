@@ -1,0 +1,17 @@
+h1{
+    width: 200px;
+    height: 50px;
+    color: blue;
+    font-size: 2em;
+    text-align: center;
+}
+
+div{
+    width: 200px;
+    height: 50px;
+    background-color: lightblue;
+    margin: 10px auto;
+    text-align: center;
+    line-height: 50px; /* Center text vertically */
+    border-radius: 50px; /* Rounded corners */
+}
